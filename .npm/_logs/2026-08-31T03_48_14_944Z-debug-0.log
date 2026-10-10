@@ -1,0 +1,72 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.19.1
+2 info using node@v26.4.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/wa-react/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm install got-scraping
+8 verbose argv "install" "got-scraping"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-08-31T03_48_14_944Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-08-31T03_48_14_944Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:1032847360 maxSize:258211840 maxEntrySize:129105920
+13 silly idealTree buildDeps
+14 silly fetch manifest got-scraping@^4.2.1
+15 silly packumentCache full:https://registry.npmjs.org/got-scraping cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/got-scraping 1066ms (cache revalidated)
+17 silly packumentCache full:https://registry.npmjs.org/got-scraping set size:367714 disposed:false
+18 silly placeDep ROOT got-scraping@4.2.1 REPLACE for: wa-react@1.0.0 want: ^4.2.1
+19 silly reify moves {}
+20 silly audit bulk request {
+20 silly audit   '@keyv/serialize': [ '1.1.1' ],
+20 silly audit   '@sec-ant/readable-stream': [ '0.4.1' ],
+20 silly audit   '@sindresorhus/is': [ '7.2.0', '4.6.0', '5.6.0' ],
+20 silly audit   '@types/http-cache-semantics': [ '4.2.0' ],
+20 silly audit   'adm-zip': [ '0.6.0' ],
+20 silly audit   'baseline-browser-mapping': [ '2.11.20' ],
+20 silly audit   browserslist: [ '4.28.8' ],
+20 silly audit   'byte-counter': [ '0.1.0' ],
+20 silly audit   'cacheable-lookup': [ '7.0.0' ],
+20 silly audit   'cacheable-request': [ '13.0.19' ],
+20 silly audit   callsites: [ '4.2.0', '3.1.0' ],
+20 silly audit   'caniuse-lite': [ '1.0.30001810' ],
+20 silly audit   'decompress-response': [ '10.0.0' ],
+20 silly audit   'dot-prop': [ '7.2.0', '6.0.1' ],
+20 silly audit   'type-fest': [ '2.19.0', '4.41.0' ],
+20 silly audit   'electron-to-chromium': [ '1.5.415' ],
+20 silly audit   escalade: [ '3.2.0' ],
+20 silly audit   'form-data-encoder': [ '4.1.0' ],
+20 silly audit   'generative-bayesian-network': [ '2.1.88' ],
+20 silly audit   'get-stream': [ '9.0.1' ],
+20 silly audit   got: [ '14.6.6' ],
+20 silly audit   'header-generator': [ '2.1.88' ],
+20 silly audit   ow: [ '0.28.2', '1.1.1' ],
+20 silly audit   'http-cache-semantics': [ '4.2.0' ],
+20 silly audit   'http2-wrapper': [ '2.2.1' ],
+20 silly audit   'quick-lru': [ '5.1.1', '7.3.0' ],
+20 silly audit   'is-obj': [ '2.0.0' ],
+20 silly audit   'is-stream': [ '4.0.1' ],
+20 silly audit   keyv: [ '5.6.0' ],
+20 silly audit   'lodash.isequal': [ '4.5.0' ],
+20 silly audit   'lowercase-keys': [ '3.0.0' ],
+20 silly audit   'mimic-response': [ '4.0.0' ],
+20 silly audit   'node-releases': [ '2.0.54' ],
+20 silly audit   'normalize-url': [ '8.1.1' ],
+20 silly audit   'p-cancelable': [ '4.0.1' ],
+20 silly audit   picocolors: [ '1.1.1' ],
+20 silly audit   'resolve-alpn': [ '1.2.1' ],
+20 silly audit   responselike: [ '4.0.2' ],
+20 silly audit   tslib: [ '2.8.1' ],
+20 silly audit   'update-browserslist-db': [ '1.3.2' ],
+20 silly audit   'vali-date': [ '1.0.0' ],
+20 silly audit   'got-scraping': [ '4.2.1' ]
+20 silly audit }
+21 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 334ms
+22 silly audit report {}
+23 verbose cwd /data/data/com.termux/files/home/wa-react
+24 verbose os Linux 4.14.199-27193134-abA035FXXS9CYG1
+25 verbose node v26.4.0
+26 verbose npm  v11.19.1
+27 verbose exit 0
+28 info ok
